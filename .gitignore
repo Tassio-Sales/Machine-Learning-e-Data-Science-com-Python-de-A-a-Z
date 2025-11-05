@@ -1,0 +1,8 @@
+# Arquivos e pastas que não devem ser enviados para o GitHub
+__pycache__/
+*.pyc
+*.pyo
+*.env
+.env
+.vscode/
+*.ipynb_checkpoints/
