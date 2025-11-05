@@ -33,5 +33,5 @@ Organizar e documentar todo o conteúdo prático do curso, incluindo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Tassio-Sales/exercicios-python.git
-   cd exercicios-python
+   git clone https://github.com/Tassio-Sales/Machine-Learning-e-Data-Science-com-Python-de-A-a-Z.git
+   cd Exercícios
